@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Friend! 👋
 
 [![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vongdara16&theme=algolia)](https://github.com/vongdara16)
 
@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Software Engineer with a background in Systems Integration. I thoroughly enjoy working in teams to tackle problems and manage projects. Solution-driven, I thrive in cross-functional teams and get excited to learn new languages and skills that will improve my ability to create products that people love.
