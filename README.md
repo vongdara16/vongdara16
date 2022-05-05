@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 -->
 
 I am a Software Engineer with a background in Systems Integration. I thoroughly enjoy working in teams to tackle problems and manage projects. Solution-driven, I thrive in cross-functional teams and get excited to learn new languages and skills that will improve my ability to create products that people love.
+
+In my free time away from coding, I enjoy playing sports such as flag football, volleyball, and disc golf to name a few. I also love spending time with my family and friends whether it's just hanging out or doing activities together. 
